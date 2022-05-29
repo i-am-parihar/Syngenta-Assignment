@@ -12,4 +12,10 @@
 
 ![pic3](https://user-images.githubusercontent.com/95914822/170866852-69dbcf2c-9384-4088-b391-7777dc898a23.png)
 
+## TechStack Use 
+### React
+### Redux
+### Redux-Thunk
+### CSS
+
 
