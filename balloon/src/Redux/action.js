@@ -8,6 +8,7 @@ export const data_success = (payload) => ({
 });
 
 
+// Function for make random color by using Thunk & Add to Redux Store
 export const randomColor = () => (disptach) =>{
     let letters = '0123456789ABCDEF'.split('');
     let arr = [] ;
